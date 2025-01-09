@@ -1,0 +1,14 @@
+C:\Users\Miguel\source\repos\PooServiteca\bin\Debug\net8.0\PooServiteca.exe
+C:\Users\Miguel\source\repos\PooServiteca\bin\Debug\net8.0\PooServiteca.deps.json
+C:\Users\Miguel\source\repos\PooServiteca\bin\Debug\net8.0\PooServiteca.runtimeconfig.json
+C:\Users\Miguel\source\repos\PooServiteca\bin\Debug\net8.0\PooServiteca.dll
+C:\Users\Miguel\source\repos\PooServiteca\bin\Debug\net8.0\PooServiteca.pdb
+C:\Users\Miguel\source\repos\PooServiteca\obj\Debug\net8.0\PooServiteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\PooServiteca\obj\Debug\net8.0\PooServiteca.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\PooServiteca\obj\Debug\net8.0\PooServiteca.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\PooServiteca\obj\Debug\net8.0\PooServiteca.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\PooServiteca\obj\Debug\net8.0\PooServiteca.dll
+C:\Users\Miguel\source\repos\PooServiteca\obj\Debug\net8.0\refint\PooServiteca.dll
+C:\Users\Miguel\source\repos\PooServiteca\obj\Debug\net8.0\PooServiteca.pdb
+C:\Users\Miguel\source\repos\PooServiteca\obj\Debug\net8.0\PooServiteca.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\PooServiteca\obj\Debug\net8.0\ref\PooServiteca.dll
